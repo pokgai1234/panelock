@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+<style>
+	g path { stroke: none; }
+</style>
+<g class="root" id="lightning_bullet" data-name="lightning-bullet" fill="#e1251b" stroke="#e1251b">
+	<path d="M20.497 0L11.778 13.986l5.393 0L11.002 23.954l5.212-0.019L9.433 36L24.483 20.107H18.553L24.272 10.448L19.618 10.427L26.567 0Z" />
+</g>
+</svg>
